@@ -7,7 +7,7 @@ body {
 header {
     background-color: #ebc90c;
     color: #000000;
-    padding: 20px 0;
+    padding: 10px 0;
     text-align: left;
 }
 
@@ -30,7 +30,23 @@ section {
     text-align: center;
 }
 
-.recurso {
+.patrocinio {
+    display: inline-block;
+    width: 30%;
+    margin: 0 2%;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+.esculturas {
+    display: inline-block;
+    width: 30%;
+    margin: 0 2%;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+.geraldo{
     display: inline-block;
     width: 30%;
     margin: 0 2%;
