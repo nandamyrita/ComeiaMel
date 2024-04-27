@@ -103,12 +103,21 @@ main {
 
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 10px;
     width: 50%;
 }
 
 h1 {
-    font-size: 2rem;
+    
+    font-size: 1rem;
+    
+    
+}
+
+h4 {
+    
+    font-size: 2.0rem;
+    color: #FF8A08;
 }
 
 .introducao .hero {
@@ -127,7 +136,6 @@ h1 {
     padding: 12px 24px;
     background-color: #FF8A08;
     color: white;
-    border: none;
     cursor: pointer;
     border-radius: 5px;
     font-size: semi-bold;
@@ -217,7 +225,7 @@ h1 {
 
 
 
-.obras {  
+.recursos {  
   
     max-width: 1100px;
     display: flex;
@@ -229,7 +237,7 @@ h1 {
    
 }
 
-.obras h2{
+.recursos h2{
     text-align: center;
 }
 
@@ -453,6 +461,7 @@ footer ul{
     }
     
     .socials a {
+        
         transition: color 0.3s;
     }
     
