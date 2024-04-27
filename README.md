@@ -1,4 +1,4 @@
-# Colmeiacommel
+# Colmeia com Mel/Badebec
 Projeto de arquitetura CasaCor - Colmeia com mel/Badebec
 O projeto tem inspiração na exposição de arquitetura CasaCor 2024, que acontecerá entre os meses de maio a julho
 O site desenvolvido tem como objetivo instigar a participação do publico no evento
